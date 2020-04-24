@@ -1,0 +1,16 @@
+{
+    "name": "tris/php-odbc-impala",
+    "description": "PHP connection Impala by cloudera ODBC Driver",
+    "authors": [
+        {
+            "name": "shironghui",
+            "email": "shironghui@ecsemir.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Odbc\\Impala\\": "src/"
+        }
+    }
+}
