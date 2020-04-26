@@ -1,5 +1,4 @@
 <?php
-
 namespace Odbc\Impala;
 
 use Illuminate\Support\ServiceProvider;

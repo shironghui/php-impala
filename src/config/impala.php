@@ -1,4 +1,6 @@
 <?php
 return [
-    'options' => []
+    'DSN' => 'Your Data Source Name',
+    'USER' => '',
+    'PASSWORD' => ''
 ];
