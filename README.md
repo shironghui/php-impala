@@ -11,9 +11,10 @@ composer require tris/php-odbc-impala
 
 环境依赖
 ------------
-unixODBC
-php扩展pdo,pdo_odbc
-Cloudera ODBC Driver for Impala
+##### unixODBC
+##### php扩展pdo,pdo_odbc
+##### Cloudera ODBC Driver for Impala
+
 
 Example (For Laravel)
 -------
